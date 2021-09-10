@@ -18,5 +18,11 @@ elif age < 37:
     print("unfotunately you lose,because you had to say higher ")
 elif age  == 50:
     print("unfotunately you lose,because you had to say lower")
+# what is else?
+# else is condition that we=hen all thing was wrong it say what to do
+# how write it?
+# we write "else"and ":" in front of it and give
+
+# space to it and write every thing we want
 else :
     print("you lose")
