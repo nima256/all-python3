@@ -8,6 +8,7 @@
 
 # space and write something that when the condition is not true write what
 
+
 # example
 # here i write a input that give number
 a = int(input("eneter a number......."))
