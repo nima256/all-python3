@@ -7,6 +7,7 @@ name = "nima"
 # in here for last name we can not use space   we have to use _ or evey thing that you want
 last_name = "mahdi"
 age = 14
+
 # for print that we just have to print name of the variable
 print(age)
 # output ==> 14
