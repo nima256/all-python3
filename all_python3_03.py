@@ -12,11 +12,11 @@
 # lets see an example
 age = int(input(" its simple game...please enter a number between 1 to 100======>"))
 
-if age == 37:
+if age == 50:
     print("you win")
-elif age < 37:
+elif age < 50:
     print("unfotunately you lose,because you had to say higher ")
-elif age  == 50:
+elif age > 50:
     print("unfotunately you lose,because you had to say lower")
 # what is else?
 # else is condition that we=hen all thing was wrong it say what to do
